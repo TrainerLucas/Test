@@ -1483,3 +1483,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.23-20.04.03:720][ 68]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.08.23-20.04.07:531][446]LogSlate: Window 'Content Browser' being destroyed
 [2024.08.23-20.04.07:538][446]LogSlate: Window 'Content Browser' being destroyed
+[2024.08.23-20.05.52:366][762]LogDerivedDataCache: C:/Users/Lucas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.130 and deleted 624 files with total size 24 MiB and 610 empty folders. Scanned 7832 files in 9638 folders with total size 399 MiB.
