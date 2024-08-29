@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/Estructura/GI_Principal.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/Estructura/GM_Niveles.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/Estructura/GS_Niveles.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/Estructura/HUD_Principal.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/Estructura/PCJugador.uasset",
+				"D:/Funiversity/Proyectos/Unreal/GitTests/TestProject/Content/Estructura/PS_Jugador1.uasset"
 			]
 		}
 	]
